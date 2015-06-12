@@ -1,0 +1,7 @@
+*** Settings ***
+Library           Selenium2Library
+
+*** Test Cases ***
+Test1
+    Open Browser    localhost:8080/BubbleBee-WebApp/    ff
+    Sleep    10
