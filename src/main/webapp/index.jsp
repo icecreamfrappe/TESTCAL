@@ -8,7 +8,7 @@ pageEncoding="ISO-8859-1"%>
 <title>Spring 4 MVC - HelloWorld Index Page</title>
 </head>
 <body>
-<<<<<<< HEAD
+
  
 	<center>
 		<h2>Hello World</h2>
@@ -16,7 +16,7 @@ pageEncoding="ISO-8859-1"%>
 			<a href="hello?name=BubbleBee">Click Here</a>
 		</h3>
 	</center>
-=======
+
       <form action="hello">
         enter first number <input name="num1" type="text"/>
   		<select name="operator">
@@ -28,6 +28,6 @@ pageEncoding="ISO-8859-1"%>
   		enter second number <input name="num2" type="text"/>
   		<button type="submit"> Calculate </button>
      </form>
->>>>>>> e3f01db75d8f4c7b7020766e9804c6c0239074b2
+
 </body>
 </html>

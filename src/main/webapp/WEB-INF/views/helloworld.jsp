@@ -9,9 +9,9 @@
 	<center>
 		<h2>Hello World</h2>
 		<h2>
-<<<<<<< HEAD
+
 			${message} ${name}
-=======
+
 			<%
 				double num1 = Double.parseDouble(request.getParameter("num1"));
 				double num2 = Double.parseDouble(request.getParameter("num2"));
@@ -39,7 +39,7 @@
 			<span id ="ans"><%=ans%></span>
 			<div><a href="">Back</a></div>
 			
->>>>>>> e3f01db75d8f4c7b7020766e9804c6c0239074b2
+
 		</h2>
 	</center>
 </body>
